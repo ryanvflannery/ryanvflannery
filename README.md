@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ryan Flannery! 
 🚀 Game Developer | Software Engineer | Open to Full Stack Opportunities
 
-🌟 Hi, I’m Ryan Flannery, a full-stack developer and game developer with a strong foundation in backend development. I specialize in designing interactive applications and immersive games with a focus on efficiency and user engagement, using tools like Python, JavaScript, C#, C++, SQL, and Java. My toolkit includes Unity, React, Node.js, Express, AWS, MySQL, MongoDB, and Keras, along with Postman and REST for API development. I'm passionate about building engaging gameplay experiences, optimizing backend systems, and contributing to impactful open-source projects. Whether it’s designing innovative game mechanics or engineering reliable web solutions, I’m committed to delivering polished, user-centered results.
+🌟 Hi, I’m Ryan, a full-stack developer and game developer with a strong foundation in backend development. I specialize in designing interactive applications and immersive games with a focus on efficiency and user engagement, using tools like Python, JavaScript, C#, C++, SQL, and Java. My toolkit includes Unity, React, Node.js, Express, AWS, MySQL, MongoDB, and Keras, along with Postman and REST for API development. I'm passionate about building engaging gameplay experiences, optimizing backend systems, and contributing to impactful open-source projects. Whether it’s designing innovative game mechanics or engineering reliable web solutions, I’m committed to delivering polished, user-centered results.
 
 ---
 
